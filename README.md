@@ -2,6 +2,6 @@
 ## รหัสนักศึกษา 6440011003 กัญญาพัชร ภักดี
 
   Result
-  !['roadmap'](images/Ex1.jpg)
+  ![image](image/EX1.jpg)
 
   
